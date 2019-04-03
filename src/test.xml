@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<courses>
+	<course title="Intro to database">
+		<students>
+			<student id="123">
+				<firstName>Alice</firstName>
+				<lastName>Wonderland</lastName>
+				<username>alice</username>
+			</student>
+			<student id="234">
+				<firstName>Bob</firstName>
+				<lastName>Marley</lastName>
+				<username>bob</username>
+			</student>
+		</students>
+	</course>
+</courses>
