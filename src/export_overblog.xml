@@ -1,208 +1,211 @@
 <?xml version="1.0"?>
 <root>
-        <blog>
-                <name>beurresale.over-blog.com</name>
-                <description></description>
-                <main_host>beurresale.over-blog.com</main_host>
-                <tags></tags>
-                <created_at>2019-03-27T15:54:11+01:00</created_at>
-                <modified_at>2019-03-27T15:59:50+01:00</modified_at>
-                <timezone></timezone>
-        </blog>
+	<blog>
+		<name>beurresale.over-blog.com</name>
+		<description></description>
+		<main_host>beurresale.over-blog.com</main_host>
+		<tags></tags>
+		<created_at>2019-03-27T15:54:11+01:00</created_at>
+		<modified_at>2019-03-27T15:59:50+01:00</modified_at>
+		<timezone></timezone>
+	</blog>
 
-        <posts>
-                <post>
-                        <title>Les bretons sont-ils alcooliques</title>
-                        <slug>2019/03/les-bretons-sont-ils-alcooliques.html</slug>
-                        <tags></tags>
-                        <status>1</status>
-                        <origin>OB</origin>
-                        <created_at>2019-03-27T15:58:17+01:00</created_at>
-                        <published_at>2019-03-27T15:58:03+01:00</published_at>
-                        <modified_at>2019-03-27T15:58:17+01:00</modified_at>
-                        <author></author>
-                        <content><![CDATA[
+	<posts>
+		<post>
+			<title>Les bretons sont-ils alcooliques</title>
+			<slug>2019/03/les-bretons-sont-ils-alcooliques.html</slug>
+			<tags></tags>
+			<status>1</status>
+			<origin>OB</origin>
+			<created_at>2019-03-27T15:58:17+01:00</created_at>
+			<published_at>2019-03-27T15:58:03+01:00</published_at>
+			<modified_at>2019-03-27T15:58:17+01:00</modified_at>
+			<author></author>
+			<content><![CDATA[
                         <div class="ob-sections">
 <div class="ob-section ob-section-html"><p>Un peu</p>
 </div>
 </div>
-                        ]]>                        </content>
-                        <comments></comments>
-                </post>
-                <post>
-                        <title>Pourquoi la Bretagne?</title>
-                        <slug>2019/03/pourquoi-la-bretagne.html</slug>
-                        <tags></tags>
-                        <status>2</status>
-                        <origin>OB</origin>
-                        <created_at>2019-03-27T15:56:46+01:00</created_at>
-                        <published_at>2019-03-27T15:56:01+01:00</published_at>
-                        <modified_at>2019-03-27T15:57:19+01:00</modified_at>
-                        <author></author>
-                        <content><![CDATA[
+                        ]]>
+			</content>
+			<comments></comments>
+		</post>
+		<post>
+			<title>Pourquoi la Bretagne?</title>
+			<slug>2019/03/pourquoi-la-bretagne.html</slug>
+			<tags></tags>
+			<status>2</status>
+			<origin>OB</origin>
+			<created_at>2019-03-27T15:56:46+01:00</created_at>
+			<published_at>2019-03-27T15:56:01+01:00</published_at>
+			<modified_at>2019-03-27T15:57:19+01:00</modified_at>
+			<author></author>
+			<content><![CDATA[
     <div class="ob-sections">
 <div class="ob-section ob-section-html"><p>Les gaulois vivaient en Bretagne, or les gaulois sont les meilleurs, donc les bretons sont les meilleurs</p>
 </div>
 </div>
-]]>                        </content>
-                        <comments>
-                                <comment>
-                                        <published_at>2019-03-27T16:01:30+01:00</published_at>
-                                        <status>1</status>
-                                        <author_name>Marc</author_name>
-                                        <author_email>marc@gmail.com</author_email>
-                                        <author_url></author_url>
-                                        <author_ip>193</author_ip>
-                                        <content><![CDATA[Bonjour,<br />
+]]>
+			</content>
+			<comments>
+				<comment>
+					<published_at>2019-03-27T16:01:30+01:00</published_at>
+					<status>1</status>
+					<author_name>Marc</author_name>
+					<author_email>marc@gmail.com</author_email>
+					<author_url></author_url>
+					<author_ip>193</author_ip>
+					<content><![CDATA[Bonjour,<br />
 <br />
 Idefix était-il un chien si fidèle?]]></content>
-                                        <replies>
-                                                <comment>
-                                                        <published_at>2019-03-27T16:04:08+01:00</published_at>
-                                                        <status>1</status>
-                                                        <author_name></author_name>
-                                                        <author_email>grue57@yahoo.fr</author_email>
-                                                        <author_url></author_url>
-                                                        <author_ip>0</author_ip>
-                                                        <content><![CDATA[Il paraît que oui]]></content>
-                                                </comment>
-                                                <comment>
-                                                        <published_at>2019-03-27T16:09:01+01:00</published_at>
-                                                        <status>1</status>
-                                                        <author_name>Florent</author_name>
-                                                        <author_email>florent@gmail.com</author_email>
-                                                        <author_url></author_url>
-                                                        <author_ip>193</author_ip>
-                                                        <content><![CDATA[Je confirme, j'ai eu la chance de le rencontrer un jour....]]></content>
-                                                </comment>
-                                                <comment>
-                                                        <published_at>2019-03-27T16:09:23+01:00</published_at>
-                                                        <status>0</status>
-                                                        <author_name>Simone</author_name>
-                                                        <author_email>simone@gmail.com</author_email>
-                                                        <author_url></author_url>
-                                                        <author_ip>193</author_ip>
-                                                        <content><![CDATA[Idefix n'était pas un chat plutot?]]></content>
-                                                </comment>
-                                        </replies>
-                                </comment>
-                                <comment>
-                                        <published_at>2019-03-27T16:02:15+01:00</published_at>
-                                        <status>1</status>
-                                        <author_name>Jeanette</author_name>
-                                        <author_email>jeannette@gmail.com</author_email>
-                                        <author_url></author_url>
-                                        <author_ip>193</author_ip>
-                                        <content><![CDATA[Merci pour cette magnifique prose]]></content>
-                                        <replies>
-                                                <comment>
-                                                        <published_at>2019-03-27T16:07:05+01:00</published_at>
-                                                        <status>1</status>
-                                                        <author_name>Clement</author_name>
-                                                        <author_email>clement@gmail.com</author_email>
-                                                        <author_url></author_url>
-                                                        <author_ip>193</author_ip>
-                                                        <content><![CDATA[Oui, merci]]></content>
-                                                </comment>
-                                                <comment>
-                                                        <published_at>2019-03-27T16:07:32+01:00</published_at>
-                                                        <status>0</status>
-                                                        <author_name>Tolga</author_name>
-                                                        <author_email>tolga@gmail.com</author_email>
-                                                        <author_url></author_url>
-                                                        <author_ip>193</author_ip>
-                                                        <content><![CDATA[En Turquie on a aussi des traces de gaulois je crois]]></content>
-                                                </comment>
-                                                <comment>
-                                                        <published_at>2019-03-27T16:08:16+01:00</published_at>
-                                                        <status>1</status>
-                                                        <author_name>Florent</author_name>
-                                                        <author_email>florent@gmail.com</author_email>
-                                                        <author_url></author_url>
-                                                        <author_ip>193</author_ip>
-                                                        <content><![CDATA[Thank you]]></content>
-                                                </comment>
-                                        </replies>
-                                </comment>
-                        </comments>
-                </post>
-                <post>
-                        <title>Beurre doux ou beurre sal&#xE9;?</title>
-                        <slug>2019/03/beurre-doux-ou-beurre-sale.html</slug>
-                        <tags></tags>
-                        <status>2</status>
-                        <origin>OB</origin>
-                        <created_at>2019-03-27T15:55:34+01:00</created_at>
-                        <published_at>2019-03-27T15:54:46+01:00</published_at>
-                        <modified_at>2019-03-27T15:56:06+01:00</modified_at>
-                        <author></author>
-                        <content><![CDATA[
+					<replies>
+						<comment>
+							<published_at>2019-03-27T16:04:08+01:00</published_at>
+							<status>1</status>
+							<author_name></author_name>
+							<author_email>grue57@yahoo.fr</author_email>
+							<author_url></author_url>
+							<author_ip>0</author_ip>
+							<content><![CDATA[Il paraît que oui]]></content>
+						</comment>
+						<comment>
+							<published_at>2019-03-27T16:09:01+01:00</published_at>
+							<status>1</status>
+							<author_name>Florent</author_name>
+							<author_email>florent@gmail.com</author_email>
+							<author_url></author_url>
+							<author_ip>193</author_ip>
+							<content><![CDATA[Je confirme, j'ai eu la chance de le rencontrer un jour....]]></content>
+						</comment>
+						<comment>
+							<published_at>2019-03-27T16:09:23+01:00</published_at>
+							<status>0</status>
+							<author_name>Simone</author_name>
+							<author_email>simone@gmail.com</author_email>
+							<author_url></author_url>
+							<author_ip>193</author_ip>
+							<content><![CDATA[Idefix n'était pas un chat plutot?]]></content>
+						</comment>
+					</replies>
+				</comment>
+				<comment>
+					<published_at>2019-03-27T16:02:15+01:00</published_at>
+					<status>1</status>
+					<author_name>Jeanette</author_name>
+					<author_email>jeannette@gmail.com</author_email>
+					<author_url></author_url>
+					<author_ip>193</author_ip>
+					<content><![CDATA[Merci pour cette magnifique prose]]></content>
+					<replies>
+						<comment>
+							<published_at>2019-03-27T16:07:05+01:00</published_at>
+							<status>1</status>
+							<author_name>Clement</author_name>
+							<author_email>clement@gmail.com</author_email>
+							<author_url></author_url>
+							<author_ip>193</author_ip>
+							<content><![CDATA[Oui, merci]]></content>
+						</comment>
+						<comment>
+							<published_at>2019-03-27T16:07:32+01:00</published_at>
+							<status>0</status>
+							<author_name>Tolga</author_name>
+							<author_email>tolga@gmail.com</author_email>
+							<author_url></author_url>
+							<author_ip>193</author_ip>
+							<content><![CDATA[En Turquie on a aussi des traces de gaulois je crois]]></content>
+						</comment>
+						<comment>
+							<published_at>2019-03-27T16:08:16+01:00</published_at>
+							<status>1</status>
+							<author_name>Florent</author_name>
+							<author_email>florent@gmail.com</author_email>
+							<author_url></author_url>
+							<author_ip>193</author_ip>
+							<content><![CDATA[Thank you]]></content>
+						</comment>
+					</replies>
+				</comment>
+			</comments>
+		</post>
+		<post>
+			<title>Beurre doux ou beurre sal&#xE9;?</title>
+			<slug>2019/03/beurre-doux-ou-beurre-sale.html</slug>
+			<tags></tags>
+			<status>2</status>
+			<origin>OB</origin>
+			<created_at>2019-03-27T15:55:34+01:00</created_at>
+			<published_at>2019-03-27T15:54:46+01:00</published_at>
+			<modified_at>2019-03-27T15:56:06+01:00</modified_at>
+			<author></author>
+			<content><![CDATA[
     <div class="ob-sections">
 <div class="ob-section ob-section-html"><p>J&#39;aime le beurre</p>
 </div>
 </div>
-]]>                        </content>
-                        <comments>
-                                <comment>
-                                        <published_at>2019-03-27T16:03:23+01:00</published_at>
-                                        <status>1</status>
-                                        <author_name>Michel</author_name>
-                                        <author_email>michel@gmail.com</author_email>
-                                        <author_url></author_url>
-                                        <author_ip>193</author_ip>
-                                        <content><![CDATA[Le beurre salé n'est-il pas mauvais pour mes artères?]]></content>
-                                        <replies>
-                                                <comment>
-                                                        <published_at>2019-03-27T16:04:36+01:00</published_at>
-                                                        <status>1</status>
-                                                        <author_name></author_name>
-                                                        <author_email>grue57@yahoo.fr</author_email>
-                                                        <author_url></author_url>
-                                                        <author_ip>0</author_ip>
-                                                        <content><![CDATA[Seulement s'il est pris en grosse quantité (plus d'un 1kg par jour)]]></content>
-                                                </comment>
-                                                <comment>
-                                                        <published_at>2019-03-27T16:06:15+01:00</published_at>
-                                                        <status>1</status>
-                                                        <author_name>Clement</author_name>
-                                                        <author_email>clement@gmail.com</author_email>
-                                                        <author_url></author_url>
-                                                        <author_ip>193</author_ip>
-                                                        <content><![CDATA[Je suis médecin à Rennes, je confirme que le beurre salé n'est pas mauvais]]></content>
-                                                </comment>
-                                        </replies>
-                                </comment>
-                                <comment>
-                                        <published_at>2019-03-27T16:03:44+01:00</published_at>
-                                        <status>1</status>
-                                        <author_name>Jacques</author_name>
-                                        <author_email>jacques@gmail.com</author_email>
-                                        <author_url></author_url>
-                                        <author_ip>193</author_ip>
-                                        <content><![CDATA[J'approuve!]]></content>
-                                        <replies>
-                                                <comment>
-                                                        <published_at>2019-03-27T16:05:33+01:00</published_at>
-                                                        <status>1</status>
-                                                        <author_name>Anne</author_name>
-                                                        <author_email>anne@gmail.com</author_email>
-                                                        <author_url></author_url>
-                                                        <author_ip>193</author_ip>
-                                                        <content><![CDATA[Moi aussi]]></content>
-                                                </comment>
-                                                <comment>
-                                                        <published_at>2019-03-27T16:06:41+01:00</published_at>
-                                                        <status>1</status>
-                                                        <author_name>Clement</author_name>
-                                                        <author_email>clement@gmail.com</author_email>
-                                                        <author_url></author_url>
-                                                        <author_ip>193</author_ip>
-                                                        <content><![CDATA[De même]]></content>
-                                                </comment>
-                                        </replies>
-                                </comment>
-                        </comments>
-                </post>
-        </posts>
-        <pages></pages>
+]]>
+			</content>
+			<comments>
+				<comment>
+					<published_at>2019-03-27T16:03:23+01:00</published_at>
+					<status>1</status>
+					<author_name>Michel</author_name>
+					<author_email>michel@gmail.com</author_email>
+					<author_url></author_url>
+					<author_ip>193</author_ip>
+					<content><![CDATA[Le beurre salé n'est-il pas mauvais pour mes artères?]]></content>
+					<replies>
+						<comment>
+							<published_at>2019-03-27T16:04:36+01:00</published_at>
+							<status>1</status>
+							<author_name></author_name>
+							<author_email>grue57@yahoo.fr</author_email>
+							<author_url></author_url>
+							<author_ip>0</author_ip>
+							<content><![CDATA[Seulement s'il est pris en grosse quantité (plus d'un 1kg par jour)]]></content>
+						</comment>
+						<comment>
+							<published_at>2019-03-27T16:06:15+01:00</published_at>
+							<status>1</status>
+							<author_name>Clement</author_name>
+							<author_email>clement@gmail.com</author_email>
+							<author_url></author_url>
+							<author_ip>193</author_ip>
+							<content><![CDATA[Je suis médecin à Rennes, je confirme que le beurre salé n'est pas mauvais]]></content>
+						</comment>
+					</replies>
+				</comment>
+				<comment>
+					<published_at>2019-03-27T16:03:44+01:00</published_at>
+					<status>1</status>
+					<author_name>Jacques</author_name>
+					<author_email>jacques@gmail.com</author_email>
+					<author_url></author_url>
+					<author_ip>193</author_ip>
+					<content><![CDATA[J'approuve!]]></content>
+					<replies>
+						<comment>
+							<published_at>2019-03-27T16:05:33+01:00</published_at>
+							<status>1</status>
+							<author_name>Anne</author_name>
+							<author_email>anne@gmail.com</author_email>
+							<author_url></author_url>
+							<author_ip>193</author_ip>
+							<content><![CDATA[Moi aussi]]></content>
+						</comment>
+						<comment>
+							<published_at>2019-03-27T16:06:41+01:00</published_at>
+							<status>1</status>
+							<author_name>Clement</author_name>
+							<author_email>clement@gmail.com</author_email>
+							<author_url></author_url>
+							<author_ip>193</author_ip>
+							<content><![CDATA[De même]]></content>
+						</comment>
+					</replies>
+				</comment>
+			</comments>
+		</post>
+	</posts>
+	<pages></pages>
 </root>

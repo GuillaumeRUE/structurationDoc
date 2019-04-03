@@ -6,9 +6,13 @@ public class Transformer {
 
 	public static void main(String[] args) throws TransformerConfigurationException {
 		
-		String xslfile = "src/testXSL.xsl";
+		/**String xslfile = "src/testXSL.xsl";
 		String infile = "src/test.xml";
-		String outfile = "src/out.xml";
+		String outfile = "src/out.xml";**/
+		
+		String xslfile = "src/transform.xsl";
+		String infile = "src/export_overblog.xml";
+		String outfile = "src/out2.xml";
 		
 		StreamSource xslcode = new StreamSource(new File(xslfile));
 		StreamSource input = new StreamSource(new File(infile));
